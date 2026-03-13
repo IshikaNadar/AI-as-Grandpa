@@ -1,2 +1,5 @@
-node_modules/
-.env
+git add .
+git commit -m "Move gitignore to root"
+git pushgit add .
+git commit -m "Move gitignore to root"
+git push
